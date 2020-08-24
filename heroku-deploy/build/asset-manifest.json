@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.5facb584.chunk.css",
-    "main.js": "/static/js/main.20e04e99.chunk.js",
-    "main.js.map": "/static/js/main.20e04e99.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ce89729d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ce89729d.js.map",
-    "static/js/2.b80d1c2f.chunk.js": "/static/js/2.b80d1c2f.chunk.js",
-    "static/js/2.b80d1c2f.chunk.js.map": "/static/js/2.b80d1c2f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8230f8736b8006e6c9fc0dd8f216c609.js": "/precache-manifest.8230f8736b8006e6c9fc0dd8f216c609.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5facb584.chunk.css.map": "/static/css/main.5facb584.chunk.css.map",
-    "static/js/2.b80d1c2f.chunk.js.LICENSE.txt": "/static/js/2.b80d1c2f.chunk.js.LICENSE.txt"
+    "main.css": "https://nidhalbacc-homepage.herokuapp.com/static/css/main.5facb584.chunk.css",
+    "main.js": "https://nidhalbacc-homepage.herokuapp.com/static/js/main.e3e86b1d.chunk.js",
+    "main.js.map": "https://nidhalbacc-homepage.herokuapp.com/static/js/main.e3e86b1d.chunk.js.map",
+    "runtime-main.js": "https://nidhalbacc-homepage.herokuapp.com/static/js/runtime-main.4a100161.js",
+    "runtime-main.js.map": "https://nidhalbacc-homepage.herokuapp.com/static/js/runtime-main.4a100161.js.map",
+    "static/js/2.b80d1c2f.chunk.js": "https://nidhalbacc-homepage.herokuapp.com/static/js/2.b80d1c2f.chunk.js",
+    "static/js/2.b80d1c2f.chunk.js.map": "https://nidhalbacc-homepage.herokuapp.com/static/js/2.b80d1c2f.chunk.js.map",
+    "index.html": "https://nidhalbacc-homepage.herokuapp.com/index.html",
+    "precache-manifest.ff1cbf804b5ab029f46c4af5f9927bc8.js": "https://nidhalbacc-homepage.herokuapp.com/precache-manifest.ff1cbf804b5ab029f46c4af5f9927bc8.js",
+    "service-worker.js": "https://nidhalbacc-homepage.herokuapp.com/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "https://nidhalbacc-homepage.herokuapp.com/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.b80d1c2f.chunk.js.LICENSE.txt": "https://nidhalbacc-homepage.herokuapp.com/static/js/2.b80d1c2f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ce89729d.js",
+    "static/js/runtime-main.4a100161.js",
     "static/js/2.b80d1c2f.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.20e04e99.chunk.js"
+    "static/js/main.e3e86b1d.chunk.js"
   ]
 }
