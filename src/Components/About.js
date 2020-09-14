@@ -43,6 +43,7 @@ class About extends Component {
                      <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
                   </p>
                </div>
+               <div><iframe src="https://github.com/sponsors/nidhaloff/card" title="Sponsor nidhaloff" height="225" width="600"></iframe></div>
             </div>
          </div>
       </div>

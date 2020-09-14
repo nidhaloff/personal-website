@@ -40,6 +40,7 @@ class App extends Component {
   }
 
   componentDidMount(){
+    console.log("personal website mouned successfully");
     this.getResumeData();
   }
 
