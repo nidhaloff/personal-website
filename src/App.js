@@ -10,6 +10,9 @@ import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
 
+console.log(`frontend running successfully. 
+            NODE_ENV => ${process.env.NODE_ENV}`);
+
 class App extends Component {
 
   constructor(props){
